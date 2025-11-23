@@ -1,0 +1,3 @@
+[submodule "Courses"]
+	path = Courses
+	url = git@github.com:shivamhingorani/brown-courses.git
